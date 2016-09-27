@@ -4,6 +4,6 @@
 
     - une couleur blanche.
     - un background noir.
-    - une bordure rouge pointillée de 1px.
+    - une bordure rouge pointillée de 10px.
     - un padding de 5px.
 
