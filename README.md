@@ -1,9 +1,3 @@
 #Exercice
 
-##Ecrire la fonction "changerStyle()" qui permet de styler le paragraphe au clic d'un bouton par :
-
-    - une couleur blanche.
-    - un background noir.
-    - une bordure rouge pointillée de 10px.
-    - un padding de 5px.
-
+La <a href="https://htmlpreview.github.io/?https://github.com/quet-romain/Exo1-Js/blob/master/index.html">preview</a>
